@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+.vscode/
+supabase/.temp/
+offline-release/
+web-release/
+dist/
+dist-audio/
+win-unpacked/
+*.log
