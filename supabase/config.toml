@@ -1,0 +1,2 @@
+[functions.manage-workspace-user]
+verify_jwt = false
